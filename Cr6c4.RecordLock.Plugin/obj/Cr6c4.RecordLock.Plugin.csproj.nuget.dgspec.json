@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\t_matsuo\\Documents\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\t_matsuo\\Documents\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t_matsuo\\Documents\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin.csproj",
+        "projectName": "Cr6c4.RecordLock.Plugin",
+        "projectPath": "C:\\Users\\t_matsuo\\Documents\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin.csproj",
+        "packagesPath": "C:\\Users\\t_matsuo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t_matsuo\\Documents\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\t_matsuo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Microsoft.CrmSdk.CoreAssemblies": {
+              "target": "Package",
+              "version": "[9.0.2.60, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "NuGet.Build.Tasks.Pack": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.14.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

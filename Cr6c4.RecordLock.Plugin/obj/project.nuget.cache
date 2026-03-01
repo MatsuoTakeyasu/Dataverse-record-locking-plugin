@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUQ93xi9+1w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t_matsuo\\Documents\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin\\Cr6c4.RecordLock.Plugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\microsoft.crmsdk.coreassemblies\\9.0.2.60\\microsoft.crmsdk.coreassemblies.9.0.2.60.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.3\\microsoft.netframework.referenceassemblies.net462.1.0.3.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\nuget.build.tasks.pack\\6.14.0\\nuget.build.tasks.pack.6.14.0.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\system.servicemodel.http\\4.10.3\\system.servicemodel.http.4.10.3.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\system.servicemodel.primitives\\4.10.3\\system.servicemodel.primitives.4.10.3.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\t_matsuo\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
